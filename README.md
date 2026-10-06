@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Linghan
 - 👀 I’m interested in Movies
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Learning Git
 - 📫 How to reach me ...
 
